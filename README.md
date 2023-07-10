@@ -1,0 +1,2 @@
+# Salon-Management-System
+The Salon Management System is a sophisticated application developed using Java programming language and JavaFX GUI framework. This user-friendly app provides comprehensive functionality for managing salon operations. It allows users to view employee details, book customer appointments, and automatically calculate bills. Designed to alleviate the day-to-day burdens of salon management, this system streamlines operations and enhances efficiency.
